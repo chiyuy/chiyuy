@@ -1,16 +1,39 @@
-## Hi there 👋
+# Pearlennium 跨境工具
 
-<!--
-**chiyuy/chiyuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+专注「出货前的算账」：装柜数量、体积换算、成本分摊。
 
-Here are some ideas to get you started:
+所有工具免费在线使用，无需注册。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 站点备案中，域名暂不可访问，下方链接将在备案通过后生效。
+
+## 工具
+
+| 工具 | 解决什么问题 | 地址 |
+|---|---|---|
+| 智能装柜计算器 | 12 种柜型、多 SKU 混装、托盘混装、3D 排布、装载率与柜数 | pearlennium.com/packing.html |
+| 成本利润计算器 | 头程分摊、佣金、广告、退货，算出单件净利 | pearlennium.com/profit.html |
+| AI 指令库 | 选品、Listing、广告、客服文案模板 | pearlennium.com/ailib.html |
+| 全球时区换算 | 客户会议、平台截单、清关节点时间对齐 | pearlennium.com/time.html |
+
+## 知识库
+
+出货环节的计算口径与经验值，写成可直接套用的清单：
+
+- [跨境物流与装柜计算工具集](https://github.com/chiyuy/cross-border-logistics-tools)
+
+包含：四种柜型速查、装箱数量三种估算口径、托盘装载要点、CBM 与体积重、成本分摊公式。
+
+## 常见口径（速查）
+
+| 柜型 | 内尺寸(m) | 理论容积 | 建议估算 | 限重 |
+|---|---|---|---|---|
+| 20GP | 5.90 × 2.35 × 2.39 | 33.2 CBM | 28 CBM | 28.2 t |
+| 40GP | 12.03 × 2.35 × 2.39 | 67.7 CBM | 58 CBM | 26.5 t |
+| 40HQ | 12.03 × 2.35 × 2.69 | 76.3 CBM | 68 CBM | 26.5 t |
+| 45HQ | 13.56 × 2.35 × 2.70 | 86.0 CBM | 78 CBM | 27.7 t |
+
+> 20 尺比 40 尺载重大是正常的：20 尺皮重仅 2.3 t，40 尺约 3.8 t。
+
+## 许可
+
+本站文章与仓库内容采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 许可，转载注明来源即可。
